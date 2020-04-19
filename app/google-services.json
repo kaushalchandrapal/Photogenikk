@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1095145972813",
+    "firebase_url": "https://photogenik-413b8.firebaseio.com",
+    "project_id": "photogenik-413b8",
+    "storage_bucket": "photogenik-413b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095145972813:android:ff86fd15778ca5d27b2804",
+        "android_client_info": {
+          "package_name": "com.example.photogenik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095145972813-shv2kes32d9ra5gjemhjujp7gfglfrhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC95n7ceubMjKvrii-rOEH9WxSFfAI9e4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095145972813-shv2kes32d9ra5gjemhjujp7gfglfrhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
